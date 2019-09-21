@@ -1,6 +1,6 @@
-Copystatic/admin/config.yml: copy code to clipboard
 backend:
-  name: test-repo
+  name: git-gateway
+  branch: master
 media_folder: static/assets
 public_folder: assets
 collections:
